@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FeedbackApp</string>
+    <string name="full_name_heading">Full Name</string>
+    <string name="name_hint">eg: Saad Rajpoot</string>
+    <string name="email_heading">Email</string>
+    <string name="email_hint">saad@gmail.com</string>
+    <string name="phone_heading">Phone</string>
+    <string name="phone_hint">03047814177</string>
+    <string name="feedback_heading">Feedback</string>
+    <string name="feedback_hint">Type your feedback here…</string>
+    <string name="add_feedback_btn">Add Feedback</string>
+    <string name="full_name_feedbackdata">Full Name</string>
+    <string name="feedback_feedbackdata">this is my feedback</string>
+    <string name="see_feedbacks_btn">See Feedbacks</string>
+</resources>
